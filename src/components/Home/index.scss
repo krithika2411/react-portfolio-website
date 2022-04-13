@@ -40,10 +40,11 @@
     }
 
     img {
-      margin-left: 20px;
+      margin-left: 15px;
+      margin-top: -15px;
       opacity: 0;
-      width: 32px;
-      height: auto;
+      width: 37px;
+      height: 58px;
       animation: rotateIn 1s linear both;
       animation-delay: 1.4s;
     }

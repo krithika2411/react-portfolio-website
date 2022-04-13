@@ -33,18 +33,14 @@ const About = () => {
             />
           </h1>
           <p>
-            I'm very ambitious front-end developer looking for a role in
-            established IT company with the opportunity to work with the latest
-            technologies on challenging and diverse projects.
+            I'm very ambitious front-end developer.I’m currently working on MEAN Stack
+            and learning Machine Learning.
           </p>
           <p align="LEFT">
-            I'm quietly confident, naturally curious, and perpetually working on
-            improving my chops one design problem at a time.
+          I'm an opportunist who is always keen to learn! I like to connect with people who can guide me advise. I'm learner for life who believe in constant learning. I am an enthusiastic person who always ready to inculcate new skills and also always look for an opportunity to grab it. Exploring the technical field. In my free time , I love to read books and listen to good music.
           </p>
           <p>
-            If I need to define myself in one sentence that would be a family
-            person, father of a beautiful daughter, a sports fanatic,
-            photography enthusiast, and tech-obsessed!!!
+             I always try to explore and learn something new.
           </p>
         </div>
 
